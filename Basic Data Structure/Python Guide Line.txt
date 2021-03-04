@@ -1,0 +1,26 @@
+Basic
+ + Variables
+ + Conditions
+ + Chained Condtions
+ + Arithmetic Operators
+ + Control Flow (If/Else)
+ + Loops
+ + Basic Data Structure
+ + Functions
+ + Mutable vs Immutable
+ + Common Methods
+ + File I/O
+
+Intermediate 
+ + Comprehensions
+ + Lambda Functions
+ + Collections Modules
+ + Map and Filter
+ + *args and **kwargs
+ + Inheritance
+ + Advanced Class
+ + Behavior
+ + PIP
+ + Environments
+ + Module Creations
+ + Async I/O
